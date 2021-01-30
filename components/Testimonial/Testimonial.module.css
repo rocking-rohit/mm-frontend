@@ -1,0 +1,48 @@
+.character {
+  width: 125px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+
+.character_name {
+  text-align: center;
+  padding: 25px 0;
+}
+
+.testimonial_text {
+  font-weight: 300;
+  padding: 15px;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.character_col {
+  border-right: 2px solid whitesmoke;
+}
+
+.quote_icon {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.quote {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+@media (max-width: 1024px) and (max-width: 1366px) {
+  .head_tag {
+    font-size: 32px !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .character_col {
+    border: none;
+  }
+
+  .head_tag {
+    padding-top: 50px;
+  }
+}

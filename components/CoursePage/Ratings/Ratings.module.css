@@ -1,0 +1,39 @@
+.course_rating {
+  padding: 0 !important;
+}
+
+.w_200 {
+  width: 200px !important;
+}
+
+.course_feature_text {
+  font-size: 18px;
+  margin: 0;
+}
+
+.course_social {
+  width: 25px;
+  display: block;
+  margin: auto;
+}
+
+.course_feature_icon {
+  width: 35px;
+  display: block;
+  margin: auto;
+}
+
+.star_icon {
+  width: 20px;
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+.feature_block {
+  padding: 20px 10px;
+}
+
+.feature_block:hover {
+  box-shadow: 5px 5px 12px 5px #8080803b;
+  transition: 0.2s;
+}

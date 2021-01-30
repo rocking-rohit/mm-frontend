@@ -1,0 +1,30 @@
+.hero_wrap {
+  padding: 160px 0 100px 0;
+  position: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background: linear-gradient(135deg, black, #000000b3);
+  /* background-image: url("/images/Radiant-Gradient-1.svg"); */
+}
+
+.course_typed {
+  display: flex;
+  margin: 0;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
+
+.typed_bg {
+  background: #e21928;
+}
+
+.play_icon {
+  width: 75px;
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+  box-shadow: 3px 3px 4px #b9b9b9;
+}

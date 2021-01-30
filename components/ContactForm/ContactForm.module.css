@@ -1,0 +1,12 @@
+
+.contact_input {
+  border: none;
+  border-bottom: 2px solid grey;
+  border-radius: 0;
+  background-color: #ffffff00 !important;
+}
+
+.contact_input:focus {
+  border-bottom: 2px solid #e21927;
+  box-shadow: none !important;
+}
