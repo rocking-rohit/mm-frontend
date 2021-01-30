@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#371778;stroke-width:1.5;stroke-miterlimit:10;}
+	.st1{fill:#FE0000;}
+	.st2{fill:none;stroke:#FE0000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#307A00;stroke-width:1.5;stroke-miterlimit:10;}
+	.st4{fill:#307A00;}
+	.st5{fill:none;stroke:#00B0EF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#22B573;stroke-width:1.5;stroke-miterlimit:10;}
+	.st7{fill:none;}
+	.st8{fill:none;stroke:#E40592;stroke-width:1.5;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#009577;stroke-width:1.5;stroke-miterlimit:10;}
+	.st10{fill:#009577;}
+	.st11{fill:none;stroke:#FF00FF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FF00FF;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#C1272D;stroke-width:1.5;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#6E97FF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#1D50B7;stroke-width:1.5;stroke-miterlimit:10;}
+	.st16{fill:#1D50B7;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<circle class="st13" cx="14.59" cy="20.18" r="2.32"/>
+				<circle class="st13" cx="19.99" cy="3.98" r="1.98"/>
+				<circle class="st13" cx="26" cy="20.18" r="2.32"/>
+			</g>
+			<path class="st13" d="M34.4,19.07V34.1c0,2.16-1.75,3.9-3.9,3.9H9.48c-2.15,0-3.9-1.74-3.9-3.9V13.09c0-2.16,1.75-3.9,3.9-3.9
+				H30.5c2.15,0,3.9,1.74,3.9,3.9V19.07"/>
+			<path class="st13" d="M34.98,19.07h1.96c0.85,0,1.54,0.77,1.54,1.72v6.47c0,0.95-0.69,1.72-1.54,1.72h-1.96"/>
+			<path class="st13" d="M5.02,19.07H3.07c-0.85,0-1.54,0.77-1.54,1.72l0,6.47c0,0.95,0.69,1.72,1.54,1.72h1.96"/>
+		</g>
+		<g>
+			<line class="st13" x1="14.59" y1="30.89" x2="26.28" y2="30.89"/>
+		</g>
+	</g>
+</g>
+<line class="st13" x1="20" y1="9" x2="20" y2="5.5"/>
+</svg>

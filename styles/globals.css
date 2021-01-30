@@ -1,0 +1,528 @@
+/* @import url("https://use.typekit.net/jtl3kqp.css"); */
+
+/* devanagari */
+html,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600 !important;
+}
+
+h1,
+h2,
+h3 {
+  font-family: trumpgothicpro, sans-serif !important;
+}
+
+.h1,
+h1 {
+  font-size: 3.5rem !important;
+  /* text-transform: uppercase; */
+}
+
+.h2,
+h2 {
+  font-size: 2.5rem !important;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", Arial, sans-serif !important;
+  /* background: #fff; */
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #000000;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.search_icon {
+  font-family: poppins, FontAwesome;
+  width: 100%;
+  padding: 8px 20px;
+  font-size: 16px;
+  border: 2px solid #c1c1c1;
+  border-radius: 5px;
+  background-color: #00ffff00;
+}
+
+section {
+  padding: 80px 0;
+}
+
+/* Padding Custom CSS*/
+
+.w_h_100 {
+  width: 100%;
+  height: 100%;
+}
+
+.pd-r-5 {
+  padding-right: 5px !important;
+}
+.pd-r-10 {
+  padding-right: 10px !important;
+}
+.pd-r-15 {
+  padding-right: 15px !important;
+}
+.pd-r-20 {
+  padding-right: 20px !important;
+}
+.pd-r-25 {
+  padding-right: 25px !important;
+}
+
+.pd-l-5 {
+  padding-left: 5px !important;
+}
+.pd-l-10 {
+  padding-left: 10px !important;
+}
+.pd-l-15 {
+  padding-left: 15px !important;
+}
+.pd-l-20 {
+  padding-left: 20px !important;
+}
+.pd-l-25 {
+  padding-left: 25px !important;
+}
+
+.pd-t-5 {
+  padding-top: 5px !important;
+}
+.pd-t-10 {
+  padding-top: 10px !important;
+}
+.pd-t-15 {
+  padding-top: 15px !important;
+}
+.pd-t-20 {
+  padding-top: 20px !important;
+}
+.pd-t-25 {
+  padding-top: 25px !important;
+}
+
+.pd-b-5 {
+  padding-bottom: 5px !important;
+}
+.pd-b-10 {
+  padding-bottom: 10px !important;
+}
+.pd-b-15 {
+  padding-bottom: 15px !important;
+}
+.pd-b-20 {
+  padding-bottom: 20px !important;
+}
+.pd-b-25 {
+  padding-bottom: 25px !important;
+}
+
+.pd-5 {
+  padding: 5px !important;
+}
+.pd-10 {
+  padding: 10px !important;
+}
+.pd-15 {
+  padding: 15px !important;
+}
+.pd-20 {
+  padding: 20px !important;
+}
+.pd-25 {
+  padding: 25px !important;
+}
+
+/* margin Custom CSS*/
+
+.m-0 {
+  margin: 0 !important;
+}
+
+.m-r-5 {
+  margin-right: 5px !important;
+}
+.m-r-10 {
+  margin-right: 10px !important;
+}
+.m-r-15 {
+  margin-right: 15px !important;
+}
+.m-r-20 {
+  margin-right: 20px !important;
+}
+.m-r-25 {
+  margin-right: 25px !important;
+}
+
+.m-l-5 {
+  margin-left: 5px !important;
+}
+.m-l-10 {
+  margin-left: 10px !important;
+}
+.m-l-15 {
+  margin-left: 15px !important;
+}
+.m-l-20 {
+  margin-left: 20px !important;
+}
+.m-l-25 {
+  margin-left: 25px !important;
+}
+
+.m-t-5 {
+  margin-top: 5px !important;
+}
+.m-t-10 {
+  margin-top: 10px !important;
+}
+.m-t-15 {
+  margin-top: 15px !important;
+}
+.m-t-20 {
+  margin-top: 20px !important;
+}
+.m-t-25 {
+  margin-top: 25px !important;
+}
+
+.m-b-5 {
+  margin-bottom: 5px !important;
+}
+.m-b-10 {
+  margin-bottom: 10px !important;
+}
+.m-b-15 {
+  margin-bottom: 15px !important;
+}
+.m-b-20 {
+  margin-bottom: 20px !important;
+}
+.m-b-25 {
+  margin-bottom: 25px !important;
+}
+
+.m-5 {
+  margin: 5px !important;
+}
+.m-10 {
+  margin: 10px !important;
+}
+.m-15 {
+  margin: 15px !important;
+}
+.m-20 {
+  margin: 20px !important;
+}
+.m-25 {
+  margin: 25px !important;
+}
+
+.btn-outline-primary {
+  color: #0c0c0c !important;
+  border: 2px solid #e31928 !important;
+  font-weight: 500 !important;
+  background: none !important;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus {
+  outline: none !important;
+}
+.btn-outline-primary:focus,
+.btn-outline-primary.focus {
+  -webkit-box-shadow: 0 0 0 0.2rem #e31928 !important;
+  box-shadow: 0 0 0 0.2rem #e31928 !important;
+}
+
+.btn-outline-primary:hover {
+  color: #fff !important;
+  background-color: #e31928 !important;
+  transition: 0.4s;
+}
+
+form {
+  width: 100%;
+}
+
+a {
+  color: #4c4c4c !important;
+}
+
+.card {
+  border: none !important;
+  box-shadow: 2px 2px 4px 1px #00000014 !important;
+  margin-bottom: 20px !important;
+}
+
+.heading_line {
+  height: 3px;
+}
+
+.main-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #111111;
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 768px) {
+  .display_xs {
+    display: none !important;
+  }
+
+  .displayon_xs {
+    display: block !important;
+  }
+
+  .button_resp {
+    padding-bottom: 25px;
+  }
+}
+
+.progress-bar[aria-valuenow="0"] {
+  transition: none;
+}
+
+.button {
+  position: relative;
+  background-color: transparent;
+  padding: 10px 20px;
+  color: #ffffff;
+  border: none;
+  font-size: 1.9em;
+  transform: none;
+  cursor: pointer;
+}
+
+.button:after {
+  content: "";
+  height: 100%;
+  width: calc(100% + 20px);
+  position: absolute;
+  top: -2px;
+  left: -10px;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  transition: 1s;
+}
+
+.button:before {
+  content: "";
+  height: calc(100% + 20px);
+  width: 100%;
+  position: absolute;
+  top: -10px;
+  left: -2px;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+  transition: 1s;
+}
+
+.button:hover:before {
+  transform: rotateY(180deg);
+}
+
+.button:hover:after {
+  transform: rotateX(180deg);
+}
+
+.color_text {
+  color: #e21928;
+}
+
+.btn_icon {
+  font-size: 24px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+.react-rotating-text-cursor {
+  animation: blinking-cursor 0.8s cubic-bezier(0.68, 0.01, 0.01, 0.99) 0s
+    infinite;
+}
+
+@keyframes blinking-cursor {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* New navbar code added*/
+
+/* .scrolled {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: lightblue;
+} */
+
+.bm-item {
+  display: inline-block;
+
+  /* Our sidebar item styling */
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: #1a1a1a !important;
+  transition: color 0.2s;
+}
+
+/* Change color on hover */
+.bm-item:hover {
+  color: white;
+}
+
+/* The rest copied directly from react-burger-menu docs */
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  right: 36px;
+  top: 36px;
+  display: none !important;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #373a47;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #eeeeee;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.meter {
+  height: 5px;
+  position: relative;
+  background: #efefef;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.meter span {
+  display: block;
+  height: 100%;
+}
+
+.progress {
+  background-color: #e61c2a !important;
+  animation: progressBar 2s ease-in-out;
+  animation-fill-mode: both;
+  -moz-animation: progressBar 2s ease-in-out;
+  -moz-animation-fill-mode: both;
+}
+
+@keyframes progressBar {
+  0% {
+    width: 0;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+@-moz-keyframes progressBar {
+  0% {
+    width: 0;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.slider-outer {
+  width: 200px;
+  height: 400px;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-behavior: smooth;
+}
+
+.slider-inner {
+  width: 4px;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  background-color: #dee2e6;
+  border-radius: 5px;
+}
+
+.slick-dots {
+  position: relative !important;
+}
+
+.slick-arrow {
+  display: none !important;
+}
+
+.text-white {
+  color: white !important;
+}
